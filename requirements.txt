@@ -1,4 +1,3 @@
-%pip install tqdm
 pandas
 tqdm
 selenium
